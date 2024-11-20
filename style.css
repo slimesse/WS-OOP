@@ -1,0 +1,83 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
+#monstyle {
+  background-color: rgb(227, 223, 230);
+}
+#monstyle1 {
+  background-color: rgb(227, 223, 230);
+}
+#monstyle2 {
+  background-color: rgb(227, 223, 230);
+}
+
+.allstyle {
+  display: flex;
+  justify-content: space-around;
+  margin: 5%;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.bouton {
+  text-align: center;
+}
+.icons {
+  text-align: center;
+}
+
+#Pencil {
+  text-align: center;
+  margin: 5%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 2rem;
+}
+#Eraser {
+  text-align: center;
+  margin: 5%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 2rem;
+}
+#Pen {
+  text-align: center;
+  margin: 5%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+nav {
+  background-color: rgb(255, 255, 255);
+}
+
+.copyrights {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 1rem;
+}
+.badge {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size:large;
+  text-align: center;
+  color: black;
+}
